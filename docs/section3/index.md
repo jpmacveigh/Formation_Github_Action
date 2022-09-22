@@ -6,7 +6,7 @@ Overview text
 
 ## Code
 
-```json
+```
 {
   "key": "value"
 }
